@@ -1,0 +1,31 @@
+{
+    "articles":[
+        {
+            "id":1,
+            "title":"dolore magnam aliquan",
+            "date":"january 3, 2023",
+            "author":"mike",
+            "img":"http://placebeard.it/640/480",
+            "excerpt":"sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "content":"<p>consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem</p>"
+        },
+        {
+            "id":2,
+            "title":"ut enim ad minima venima",
+            "date":"december 14, 2021",
+            "author":"mike",
+            "img":"http://placebeard.it/640/480",
+            "excerpt":"sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "content":"<p>consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem</p>"
+        },
+        {
+            "id":3,
+            "title":"ut malesuanda quam ,id vilputue",
+            "date":"March 17, 2021",
+            "author":"Jhon",
+            "img":"http://placebeard.it/640/480",
+            "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "content":"<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>"
+        }
+    ]
+}
